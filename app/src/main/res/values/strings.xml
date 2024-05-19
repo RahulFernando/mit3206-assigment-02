@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AssigmentTwo</string>
+    <string name="label">Time and Date:-</string>
+    <string name="message">Message</string>
+</resources>
